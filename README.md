@@ -1,9 +1,10 @@
 # 👋 Hi, I'm Adriana Guillén
 
-🎯 **Business Analyst | Predictive Analytics | Python | SQL | MBA in Business Analytics (2025)**
+🎯 Business Analyst specialized in Predictive Analytics, with 12+ years of experience bridging data and decision-making in retail and operations.
 
-I help organizations uncover actionable insights through data.  
-With 12+ years of cross-functional experience in retail and operations, I now specialize in building analytical solutions that support better decisions, improve visibility, and optimize performance.
+I'm passionate about transforming complex challenges into actionable insights.  
+With a strong foundation in Python, SQL, and statistical modeling, I help teams optimize performance, reduce inefficiencies, and drive strategic impact. Currently pursuing my MBA in Business Analytics (2025).
+
 
 ---
 
