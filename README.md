@@ -31,7 +31,7 @@ Inspired by real operational challenges from my time at a major fuel retail chai
 
 ## 📫 Let’s connect
 
-- [LinkedIn](https://www.linkedin.com/in/adriana-guillen/) *(add your real link!)*
-- [Portfolio Website](https://your-portfolio-link.com) *(optional, once ready)*
+- [LinkedIn](https://www.linkedin.com/in/adriana-guillen/) 
+- [Portfolio Website](https://your-portfolio-link.com) 
 - [GitHub](https://github.com/adriana-guillen)
 
