@@ -5,6 +5,23 @@
 I'm passionate about transforming complex challenges into actionable insights.  
 With a strong foundation in Python, SQL, and statistical modeling, I help teams optimize performance, reduce inefficiencies, and drive data-informed strategic impact. Currently advancing my skills through an MBA in Business Analytics (expected 2025).
 
+---
+## 🧠 Portfolio Projects
+
+- 💬 [Text Analytics – Sentiment Analysis at Oxxo Gas](https://github.com/adriana-guillen/Adriana-Portfolio/tree/main/Text-Analytics)  
+  NLP pipeline analyzing service quality feedback from mystery shoppers, employees, and customers — with TF-IDF, Word2Vec, and BERT.
+
+- 🔮 [Predictive Analytics – Lost Sales Estimation](https://github.com/adriana-guillen/Adriana-Portfolio/tree/main/Predictive-Analytics)  
+  Regression model to estimate lost sales from unexhibited inventory — based on real operational challenges at a major retailer.
+
+- 🧮 [Prescriptive Analytics – Inventory Optimization](https://github.com/adriana-guillen/Adriana-Portfolio/tree/main/Prescriptive-Analytics)  
+  Optimization of replenishment cycles using cost minimization models and Solver in Python and Excel.
+
+- 📊 [Interactive Dashboard – Retail KPIs](https://github.com/adriana-guillen/Adriana-Portfolio/tree/main/Dashboards)  
+  Power BI dashboard tracking sales, profitability, and performance across regions and product categories.
+
+- ⏱️ [Time-Series Forecasting – Saltillo Sales](https://github.com/adriana-guillen/Adriana-Portfolio/tree/main/Saltillo-Forecasting)  
+  Demand forecasting using ARIMA and Prophet, simulating sales disruptions during major roadwork events in Saltillo.
 
 ---
 
