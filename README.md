@@ -1,54 +1,49 @@
 # 👋 Hi, I'm Adriana Guillén
 
-🎯 Business Analyst specializing in Predictive Analytics, with 12+ years of experience bridging data and decision-making in retail and operations.
+🎯 **Business Analyst | MBA in Business Analytics | Google & IBM Certified | 12+ Years in Retail & Operations**
 
-I'm passionate about transforming complex challenges into actionable insights.  
-With a strong foundation in Python, SQL, and statistical modeling, I help teams optimize performance, reduce inefficiencies, and drive data-informed strategic impact. Currently advancing my skills through an MBA in Business Analytics (expected 2025).
+I specialize in transforming complex business challenges into clear, data-driven solutions. With over a decade of experience in operations and a fresh MBA in Business Analytics from O.P. Jindal Global University, I bring the unique ability to bridge technical analytics and strategic decision-making.
 
 ---
+
 ## 🧠 Portfolio Projects
 
-- 💬 [Text Analytics – Sentiment Analysis at Oxxo Gas](https://github.com/adriana-guillen/Adriana-Portfolio/tree/main/Text-Analytics)  
-  NLP pipeline analyzing service quality feedback from mystery shoppers, employees, and customers — with TF-IDF, Word2Vec, and BERT.
+All projects are based on real business cases from my career at FEMSA — using synthetic data for confidentiality.  
+Each one demonstrates modern analytics techniques applied to real-world operations.
 
-- 🔮 [Predictive Analytics – Lost Sales Estimation](https://github.com/adriana-guillen/Adriana-Portfolio/tree/main/Predictive-Analytics)  
-  Regression model to estimate lost sales from unexhibited inventory — based on real operational challenges at a major retailer.
+- [Text Analytics – Sentiment Analysis at Oxxo Gas](text_analytics_voc_oxxogas.ipynb)  
+  NLP pipeline analyzing service quality feedback from mystery shoppers, employees, and customers — using TF-IDF, Word2Vec, and BERT.
 
-- 🧮 [Prescriptive Analytics – Inventory Optimization](https://github.com/adriana-guillen/Adriana-Portfolio/tree/main/Prescriptive-Analytics)  
-  Optimization of replenishment cycles using cost minimization models and Solver in Python and Excel.
+- [Predictive Analytics – Lost Sales Estimation](predictive_lost_sales_estimation.ipynb)  
+  Regression model to estimate lost sales from unexhibited inventory — improving shelf-space optimization.
 
-- 📊 [Interactive Dashboard – Retail KPIs](https://github.com/adriana-guillen/Adriana-Portfolio/tree/main/Dashboards)  
-  Power BI dashboard tracking sales, profitability, and performance across regions and product categories.
+- [Prescriptive Analytics – Overinventory Optimization](overinventory_optimization.ipynb)  
+  Linear programming model to recommend reorder strategies across 150 stores and 100 SKUs, reducing excess stock and holding costs.
 
-- ⏱️ [Time-Series Forecasting – Saltillo Sales](https://github.com/adriana-guillen/Adriana-Portfolio/tree/main/Saltillo-Forecasting)  
-  Demand forecasting using ARIMA and Prophet, simulating sales disruptions during major roadwork events in Saltillo.
+- [Time-Series Forecasting – Saltillo Road Closure Impact](saltillo_sales_forecasting.ipynb)  
+  Demand forecasting using LightGBM and Prophet to simulate the effect of road access disruptions on fuel sales in northern Mexico.
 
----
-
-## 📌 Featured Project
-
-### 🔍 [Predictive Lost Sales – FEMSA](https://github.com/adriana-guillen/Predictive-Lost-Sales-FEMSA)
-Estimate lost sales from unexhibited inventory using regression modeling and simulated retail data.  
-Inspired by real operational challenges from my time at a major fuel retail chain.
-
-🧰 Tools: Python, Pandas, Matplotlib, Seaborn, scikit-learn, statsmodels  
-📊 Techniques: Data cleaning, EDA, Regression, Business impact interpretation
+- [Interactive Dashboard – Operative Scorecard (Power BI)](operative_scorecard_dashboard.pbix)  
+  Simulated dashboard tracking weekly gas station performance across 100 locations — includes evaluation flags, open comments, and sentiment field.
 
 ---
 
-## 🚀 About Me
+## 📚 Certifications & Education
 
-- 🎓 Currently pursuing my MBA in Business Analytics  
-- 🧠 Background in process engineering, strategy support & analytics  
-- 🧩 Passionate about solving complex business problems with data  
-- 🌎 Fluent in Spanish & English  
-- 💼 Open to 100% remote Business Analyst roles (U.S.-based companies)
+- **MBA in Business Analytics – O.P. Jindal Global University**  
+- **Google Data Analytics Professional Certificate**  
+- **IBM Data Science Professional Certificate**
 
 ---
 
-## 📫 Let’s connect
+## 🌐 Let’s Connect
 
-- [LinkedIn](https://www.linkedin.com/in/adriana-guillen/) 
-- [Portfolio Website](https://your-portfolio-link.com) 
+- [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- [Portfolio Website](https://your-portfolio-site.com)  
 - [GitHub](https://github.com/adriana-guillen)
 
+---
+
+📌 *All datasets are synthetic and created for educational/portfolio purposes. No proprietary data is used.*
+
+---
