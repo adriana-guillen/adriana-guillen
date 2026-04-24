@@ -1,49 +1,55 @@
-# 👋 Hi, I'm Adriana Guillén
+## Adriana Guillén  
+Business Analyst | Analytics Translator  
 
-🎯 **Business Analyst | MBA in Business Analytics | Google & IBM Certified | 12+ Years in Retail & Operations**
+MBA in Business Analytics with 12+ years of experience in operations and performance-driven environments. I focus on identifying where business performance is lost, quantifying the impact, and translating data into clear operational decisions.
 
-I specialize in transforming complex business challenges into clear, data-driven solutions. With over a decade of experience in operations and a fresh MBA in Business Analytics from O.P. Jindal Global University, I bring the unique ability to bridge technical analytics and strategic decision-making.
+At FEMSA (Oxxo Gas division), I worked directly with leadership on initiatives related to sales performance, inventory management, and service quality. Today, I apply analytics to structure those problems, measure their impact, and support decision-making with evidence.
 
 ---
 
-## 🧠 Portfolio Projects
+## Portfolio Projects
 
-All projects are based on real business cases from my career at FEMSA — using synthetic data for confidentiality.  
-Each one demonstrates modern analytics techniques applied to real-world operations.
+These projects are based on real operational challenges from my experience at FEMSA, using synthetic data to replicate business scenarios and quantify impact. Each project focuses on a specific business problem and the decisions supported by the analysis.
 
 - [Text Analytics – Sentiment Analysis at Oxxo Gas](text_analytics_voc_oxxogas.ipynb)  
-  NLP pipeline analyzing service quality feedback from mystery shoppers, employees, and customers — using TF-IDF, Word2Vec, and BERT.
+  Analyzed service quality feedback from customers, employees, and mystery shoppers to identify key drivers of operational performance.  
+  Tools: TF-IDF, Word2Vec, BERT, Python
 
 - [Predictive Analytics – Lost Sales Estimation](predictive_lost_sales_estimation.ipynb)  
-  Regression model to estimate lost sales from unexhibited inventory — improving shelf-space optimization.
+  Estimated lost sales from unexhibited inventory to quantify revenue leakage and support shelf-space optimization decisions.  
+  Tools: Regression modeling, Python
 
 - [Prescriptive Analytics – Overinventory Optimization](overinventory_optimization.ipynb)  
-  Linear programming model to recommend reorder strategies across 150 stores and 100 SKUs, reducing excess stock and holding costs.
+  Optimized inventory decisions across stores and SKUs to reduce excess stock and improve capital efficiency.  
+  Tools: Linear programming, PuLP, Python
 
 - [Time-Series Forecasting – Saltillo Road Closure Impact](saltillo_sales_forecasting.ipynb)  
-  Demand forecasting using LightGBM and Prophet to simulate the effect of road access disruptions on fuel sales in northern Mexico.
+  Modeled sales behavior under disruption scenarios to support operational planning and risk mitigation.  
+  Tools: LightGBM, Prophet, Python
 
 - [Interactive Dashboard – Operative Scorecard (Power BI)](operative_scorecard_dashboard.pbix)  
-  Simulated dashboard tracking weekly gas station performance across 100 locations — includes evaluation flags, open comments, and sentiment field.
+  Designed a performance dashboard to monitor operational KPIs, evaluation scores, and service quality across gas stations.  
+  Tools: Power BI, Data modeling
 
 ---
 
-## 📚 Certifications & Education
+## Certifications & Education
 
-- **MBA in Business Analytics – O.P. Jindal Global University**  
-- **Google Data Analytics Professional Certificate**  
-- **IBM Data Science Professional Certificate**
-
----
-
-## 🌐 Let’s Connect
-
-- [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- [Portfolio Website](https://your-portfolio-site.com)  
-- [GitHub](https://github.com/adriana-guillen)
+MBA in Business Analytics — O.P. Jindal Global University  
+Google Data Analytics Professional Certificate  
+IBM Data Science Professional Certificate
 
 ---
 
-📌 *All datasets are synthetic and created for educational/portfolio purposes. No proprietary data is used.*
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/my-profile  
+Portfolio: https://my-portfolio-site.com  
+GitHub: https://github.com/adriana-guillen  
 
 ---
+
+All datasets are synthetic and designed to reflect realistic business scenarios. No proprietary data is used.
+
+---
+
