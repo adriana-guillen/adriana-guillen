@@ -49,7 +49,7 @@ GitHub: https://github.com/adriana-guillen
 
 ---
 
-***Disclaimer: All datasets are synthetic and designed to reflect realistic business scenarios. No proprietary data is used.***
+***All datasets are synthetic and designed to reflect realistic business scenarios. No proprietary data is used.***
 
 ---
 
