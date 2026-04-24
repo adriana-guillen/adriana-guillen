@@ -3,7 +3,7 @@ Business Analyst | Analytics Translator
 
 MBA in Business Analytics with 12+ years of experience in operations and performance-driven environments. I focus on identifying where business performance is lost, quantifying the impact, and translating data into clear operational decisions.
 
-At FEMSA (Oxxo Gas division), I worked directly with leadership on initiatives related to sales performance, inventory management, and service quality. Today, I apply analytics to structure those problems, measure their impact, and support decision-making with evidence.
+At FEMSA (Oxxo retail division), I worked directly with leadership on initiatives related to sales performance, inventory management, and service quality. Today, I apply analytics to structure those problems, measure their impact, and support decision-making with evidence.
 
 ---
 
