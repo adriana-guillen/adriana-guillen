@@ -11,24 +11,24 @@ At FEMSA (Oxxo Gas division), I worked directly with leadership on initiatives r
 
 These projects are based on real operational challenges from my experience at FEMSA, using synthetic data to replicate business scenarios and quantify impact. Each project focuses on a specific business problem and the decisions supported by the analysis.
 
-- [Text Analytics – Sentiment Analysis at Oxxo Gas](text_analytics_voc_oxxogas.ipynb)  
+- [Text Analytics – Sentiment Analysis at Oxxo Gas](https://github.com/adriana-guillen/Text-Analytics-VOC)  
   Analyzed service quality feedback from customers, employees, and mystery shoppers to identify key drivers of operational performance.  
   Tools: TF-IDF, Word2Vec, BERT, Python
 
-- [Predictive Analytics – Lost Sales Estimation](predictive_lost_sales_estimation.ipynb)  
+- [Predictive Analytics – Lost Sales Estimation](https://github.com/adriana-guillen/Predictive-Lost-Sales-FEMSA) 
   Estimated lost sales from unexhibited inventory to quantify revenue leakage and support shelf-space optimization decisions.  
   Tools: Regression modeling, Python
 
-- [Prescriptive Analytics – Overinventory Optimization](overinventory_optimization.ipynb)  
-  Optimized inventory decisions across stores and SKUs to reduce excess stock and improve capital efficiency.  
+- [Prescriptive Analytics – Overinventory Optimization](https://github.com/adriana-guillen/Overinventory-Optimization)
+  Optimized inventory decisions across stores and SKUs to reduce excess stock and improve capital efficiency.
   Tools: Linear programming, PuLP, Python
 
-- [Time-Series Forecasting – Saltillo Road Closure Impact](saltillo_sales_forecasting.ipynb)  
-  Modeled sales behavior under disruption scenarios to support operational planning and risk mitigation.  
+- [Time-Series Forecasting – Saltillo Road Closure Impact](https://github.com/adriana-guillen/Saltillo-Sales-Forecasting)
+  Modeled sales behavior under disruption scenarios to support operational planning and risk mitigation.
   Tools: LightGBM, Prophet, Python
 
-- [Interactive Dashboard – Operative Scorecard (Power BI)](operative_scorecard_dashboard.pbix)  
-  Designed a performance dashboard to monitor operational KPIs, evaluation scores, and service quality across gas stations.  
+- [Interactive Dashboard – Operative Scorecard (Power BI)](https://github.com/adriana-guillen/Operative-Scorecard-Dashboard)
+  Designed a performance dashboard to monitor operational KPIs, evaluation scores, and service quality across gas stations.
   Tools: Power BI, Data modeling
 
 ---
