@@ -14,25 +14,21 @@ These projects are based on real operational challenges from my experience at FE
 - [Text Analytics – Sentiment Analysis at Oxxo Gas](https://github.com/adriana-guillen/Text-Analytics-VOC)  
   Analyzed service quality feedback from customers, employees, and mystery shoppers to identify key drivers of operational performance.  
   Tools: TF-IDF, Word2Vec, BERT, Python
-
-- [Predictive Analytics – Lost Sales Estimation](https://github.com/adriana-guillen/Predictive-Lost-Sales-FEMSA) 
-
-   Estimated lost sales from unexhibited inventory to quantify revenue leakage and support shelf-space optimization decisions.  
+  
+- [Predictive Analytics – Lost Sales Estimation](https://github.com/adriana-guillen/Predictive-Lost-Sales-FEMSA)  
+  Estimated lost sales from unexhibited inventory to quantify revenue leakage and support shelf-space optimization decisions.<br>
   Tools: Regression modeling, Python
 
-- [Prescriptive Analytics – Overinventory Optimization](https://github.com/adriana-guillen/Overinventory-Optimization)
-
-  Optimized inventory decisions across stores and SKUs to reduce excess stock and improve capital efficiency.
+- [Prescriptive Analytics – Overinventory Optimization](https://github.com/adriana-guillen/Overinventory-Optimization)  
+  Optimized inventory decisions across stores and SKUs to reduce excess stock and improve capital efficiency.<br>
   Tools: Linear programming, PuLP, Python
 
-- [Time-Series Forecasting – Saltillo Road Closure Impact](https://github.com/adriana-guillen/Saltillo-Sales-Forecasting)
-
-  Modeled sales behavior under disruption scenarios to support operational planning and risk mitigation.
+- [Time-Series Forecasting – Saltillo Road Closure Impact](https://github.com/adriana-guillen/Saltillo-Sales-Forecasting)  
+  Modeled sales behavior under disruption scenarios to support operational planning and risk mitigation.<br>
   Tools: LightGBM, Prophet, Python
-  
-- [Interactive Dashboard – Operative Scorecard (Power BI)](https://github.com/adriana-guillen/Operative-Scorecard-Dashboard)
 
-  Designed a performance dashboard to monitor operational KPIs, evaluation scores, and service quality across gas stations.
+- [Interactive Dashboard – Operative Scorecard (Power BI)](https://github.com/adriana-guillen/Operative-Scorecard-Dashboard)  
+  Designed a performance dashboard to monitor operational KPIs, evaluation scores, and service quality across gas stations.<br>
   Tools: Power BI, Data modeling
 
 ---
