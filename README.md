@@ -19,7 +19,7 @@ These projects are based on real operational challenges from my experience at FE
   Estimated lost sales from unexhibited inventory to quantify revenue leakage and support shelf-space optimization decisions.<br>
   Tools: Regression modeling, Python
 
-- [Prescriptive Analytics – Overinventory Optimization](https://github.com/adriana-guillen/Overinventory-Optimization)  
+- [Prescriptive Analytics – Overinventory Optimization](https://github.com/adriana-guillen/overinventory-capital-allocation.git)  
   Optimized inventory decisions across stores and SKUs to reduce excess stock and improve capital efficiency.<br>
   Tools: Linear programming, PuLP, Python
 
