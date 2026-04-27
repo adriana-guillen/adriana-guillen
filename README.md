@@ -23,7 +23,7 @@ These projects are based on real operational challenges from my experience at FE
   Optimized inventory decisions across stores and SKUs to reduce excess stock and improve capital efficiency.<br>
   Tools: Linear programming, PuLP, Python
 
-- [Time-Series Forecasting – Saltillo Road Closure Impact](https://github.com/adriana-guillen/Saltillo-Sales-Forecasting)  
+- [Time-Series Forecasting – Saltillo Road Closure Impact](https://github.com/adriana-guillen/saltillo-disruption-forecasting.git)  
   Modeled sales behavior under disruption scenarios to support operational planning and risk mitigation.<br>
   Tools: LightGBM, Prophet, Python
 
