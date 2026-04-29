@@ -27,7 +27,7 @@ These projects are based on real operational challenges from my experience at FE
   Modeled sales behavior under disruption scenarios to support operational planning and risk mitigation.<br>
   Tools: LightGBM, Prophet, Python
 
-- [Interactive Dashboard – Operative Scorecard (Power BI)](https://github.com/adriana-guillen/Operative-Scorecard-Dashboard)  
+- [Interactive Dashboard – Operative Scorecard (Power BI)](https://github.com/adriana-guillen/bi-operational-performance-dashboard/tree/main)  
   Designed a performance dashboard to monitor operational KPIs, evaluation scores, and service quality across gas stations.<br>
   Tools: Power BI, Data modeling
 
