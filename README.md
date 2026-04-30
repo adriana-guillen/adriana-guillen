@@ -11,7 +11,7 @@ At FEMSA (Oxxo retail division), I worked directly with leadership on initiative
 
 These projects are based on real operational challenges from my experience at FEMSA, using synthetic data to replicate business scenarios and quantify impact. Each project focuses on a specific business problem and the decisions supported by the analysis.
 
-- [Text Analytics – Voice of the Customer (VOC) Sentiment Analysis for Operational Experience](https://github.com/adriana-guillen/Text-Analytics-VOC)  
+- [Text Analytics – Voice of the Customer (VOC) for Operational Experience](https://github.com/adriana-guillen/Text-Analytics-VOC)  
   Analyzed service quality feedback from customers, employees, and mystery shoppers to identify key drivers of operational performance.  
   Tools: TF-IDF, Word2Vec, BERT, Python
   
