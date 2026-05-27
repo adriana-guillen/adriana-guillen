@@ -43,7 +43,7 @@ IBM Data Science Professional Certificate
 
 ## Contact
 
-LinkedIn: [your LinkedIn URL]
+LinkedIn: https://www.linkedin.com/in/adriana-guillen-analytics/
 
 GitHub Portfolio: https://github.com/adriana-guillen
 
